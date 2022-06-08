@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinu-anand
-- 👀 I’m interested in Web Development, Android Development and Problem Solving
-- 🌱 I’m currently learning advanced algorithms
+- 👀 I’m interested in Web Development, Android Development and DevOps
+- 🌱 I’m currently learning DevOps stuffs.
 - 💞️ I’m looking to collaborate on big projects
 - 📫 Contact me at chinuanand81@gmail.com
