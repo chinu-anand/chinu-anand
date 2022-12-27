@@ -7,7 +7,7 @@
 - I love to learn new technologies and leverage them to **solve real-life problems**.
 - Also interested in ML/DL, will gain hands-on experience in it #2023Goals.
 
-### **My Tech Stack:**
+### **My Techical Skills:**
 
 - Programming Languages: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
