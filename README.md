@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/7V5XtHX/banner-1.png)
+![Chinu](./header.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinu-anand&style=for-the-badge)
 
