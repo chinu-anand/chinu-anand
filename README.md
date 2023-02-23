@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinu-anand&style=for-the-badge)
 
-- A computer science undergrad, a **MERN stack developer** and a **DevOps Enthusiast**.
+- An **OpenSource** crusader, a **Full Stack Web Developer** by day, a **DevOps** enthusiast by night. Saving the world one commit at a time.
 - A passionate learner who is always **willing to learn and work** across technologies and domains.
 - I love to learn new technologies and leverage them to **solve real-life problems**.
 - Also interested in ML/DL, will gain hands-on experience in it #2023Goals.
