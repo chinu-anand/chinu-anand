@@ -1,4 +1,6 @@
-![Greetings](https://rishavanand.github.io/static/images/greetings.gif)
+<div align="center">
+  <img src="./hello_there.gif" />
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinu-anand&style=for-the-badge)
 
